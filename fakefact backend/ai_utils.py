@@ -4,7 +4,7 @@ import re
 import base64
 
 # Configure Gemini API
-genai.configure(api_key="YOUR_API_KEY_HERE")
+genai.configure(api_key="AIzaSyDjojGGubB025Jl7C5s4Ra-EeZF-HaM-J8")
 model = genai.GenerativeModel('gemini-1.5-pro')
 
 # Language Tool

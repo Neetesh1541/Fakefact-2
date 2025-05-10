@@ -1,0 +1,7 @@
+Flask
+flask-cors
+google-generativeai
+language-tool-python
+Pillow
+opencv-python
+numpy
